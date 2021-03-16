@@ -1,4 +1,6 @@
-### Hey, I'm kutacoder, pleased to meet ya!
+### Hey there,
+
+I'm Guy, but on the web I mostly go by kutacoder.
 
 I'm a passionately curious autodidact and an enthusiastic problem solver.
 No matter what the topic in question is, I always try to approach it with an open mind.
@@ -11,7 +13,7 @@ After all, as Ernest Hemingway put it:
 
 >  We are all apprentices in a craft where no one ever becomes a master.
 
-I try to constantly improve, and to remain true to simplicty, and elegance.
+I try to constantly improve, and to remain true to elegance, thorougness, and simplicity.
 
 In the words of Kevlin Henney:
 
