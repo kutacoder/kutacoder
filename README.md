@@ -1,12 +1,10 @@
-### Hey there,
-
 I'm Guy, but on the web I mostly go by kutacoder.
 
 I'm a passionately curious autodidact and an enthusiastic problem solver.
 
 All of my projects are attempts to provide some sort of value - either to myself or (hopefully) to you.
 I believe I can learn from anyone, and I can teach anybody who is willing to learn.
-If you find my projects useful and you have anything to add, please feel free to drop me a line, or even better, open a pull request 🙏🏼.
+If you find my projects useful and you have anything to add, please feel free to drop me a line or to open a pull request 🙏🏼.
 
 After all, as Ernest Hemingway put it:
 
