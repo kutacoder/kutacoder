@@ -7,7 +7,7 @@ All of my projects are attempts to provide some sort of value - either to myself
 I believe I can learn from anyone, and I can teach anybody who is willing to learn.
 If you find my projects useful and you have anything to add, please feel free to drop me a line, or even better, open a pull request 🙏🏼.
 
-After all, as Hemingway put it:
+After all, as Ernest Hemingway put it:
 
 >  We are all apprentices in a craft where no one ever becomes a master.
 
