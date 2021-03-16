@@ -3,7 +3,6 @@
 I'm Guy, but on the web I mostly go by kutacoder.
 
 I'm a passionately curious autodidact and an enthusiastic problem solver.
-No matter what the topic in question is, I always try to approach it with an open mind.
 
 All of my projects are attempts to provide some sort of value - either to myself or (hopefully) to you.
 I believe I can learn from anyone, and I can teach anybody who is willing to learn.
