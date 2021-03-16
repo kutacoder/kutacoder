@@ -2,16 +2,13 @@ Hey there, I'm Guy, but on the web I mostly go by kutacoder.
 
 I'm a passionately curious autodidact and an enthusiastic problem solver.
 
-All of my projects are attempts to provide some sort of value - either to myself or (hopefully) to you.
-I believe I can learn from anyone, and I can teach anybody who is willing to learn.
-If you find my projects useful and you have anything to add, please feel free to drop me a line or to open a pull request 🙏🏼.
+My projects range from encapsulation of simple ideas to working applications.
+They are attempts to provide some sort of value - either to myself or (hopefully 🙏🏼) to you.
 
-After all, as Ernest Hemingway put it:
+I believe I can learn from anyone, and I can teach anybody who is willing to learn. After all, as Ernest Hemingway put it:
 
 >  We are all apprentices in a craft where no one ever becomes a master.
 
-I try to constantly improve, and to remain true to elegance, thorougness, and simplicity.
-
-In the words of Kevlin Henney:
+I try to constantly improve, and to remain true to elegance, thorougness, and simplicity. In the words of Kevlin Henney:
 
 > Beauty is born of and found in simplicity.
