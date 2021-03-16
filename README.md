@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm kutacoder, pleased to meet ya!
 
-<!--
-**kutacoder/kutacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionately curious autodidact and an enthusiastic problem solver.
 
-Here are some ideas to get you started:
+No matter what the topic in question is, I always try to approach it with an open mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All of my projects are attempts to provide some sort of value - either to myself or (hopefully) to you.
+
+I believe I can learn from anyone, and I can teach anybody who is willing to learn.
+
+If you find my projects useful and you have anything to add, please feel free to drop me a line, or even better, open a pull request 🙏🏼.
+
+As Hemingway put it:
+
+>  We are all apprentices in a craft where no one ever becomes a master.
+
+I try to constantly improve, and to remain true to simplicty, and elegance.
+
+In the words of Kevlin Henney:
+
+> Beauty is born of and found in simplicity.
