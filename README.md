@@ -3,7 +3,8 @@ Hey there, I'm Guy, but on the web I usually go by kutacoder.
 I'm a passionately curious autodidact and an enthusiastic problem solver.
 
 My projects range from examples of simple ideas to fully working applications.
-They are merely attempts to better understand the techonological world around me, and more importantly, they are attempts to provide some sort of value - either to myself or (hopefully 🙏🏼) to you.
+They are merely attempts to better understand the technological world around me.
+More importantly, they are attempts to provide some sort of value - either to myself or (hopefully 🙏🏼) to you.
 
 I believe I can learn from anyone, so if you have anything to add, please don't hesitate to open a PR!
 
