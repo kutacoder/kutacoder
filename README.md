@@ -1,4 +1,4 @@
-Hey there, I'm Guy, but on the web I mostly go by kutacoder.
+Hey there, I'm Guy, but on the web I usually go by kutacoder.
 
 I'm a passionately curious autodidact and an enthusiastic problem solver.
 
