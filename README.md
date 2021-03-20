@@ -2,8 +2,8 @@ Hey there, I'm Guy, but on the web I mostly go by kutacoder.
 
 I'm a passionately curious autodidact and an enthusiastic problem solver.
 
-My projects range from encapsulation of simple ideas to working applications.
-They are attempts to provide some sort of value - either to myself or (hopefully 🙏🏼) to you.
+My projects range from examples of simple ideas to fully working applications.
+They are merely attempts to better understand the techonological world around me, and more importantly, to provide some sort of value - either to myself or (hopefully 🙏🏼) to you.
 
 I believe I can learn from anyone, and I can teach anybody who is willing to learn. After all, as Ernest Hemingway put it:
 
