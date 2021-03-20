@@ -9,6 +9,6 @@ I believe I can learn from anyone, and I can teach anybody who is willing to lea
 
 >  We are all apprentices in a craft where no one ever becomes a master.
 
-I try to constantly improve, and to remain true to elegance, thorougness, and simplicity. In the words of Kevlin Henney:
+I try to constantly improve, and to remain true to elegant, succinct, and simple solutions. In the words of Kevlin Henney:
 
 > Beauty is born of and found in simplicity.
